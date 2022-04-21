@@ -2,8 +2,6 @@
 # Snake Game
 A simple command line -based snake game built with [go](//golang.org) and [termbox](//github.com/nsf/termbox-go) library.
 
-This is a test task for a Golang positon. It took me 8 hours to complete the task. 
-
 ![screencast](/demo.gif)
 
 ## Setup
